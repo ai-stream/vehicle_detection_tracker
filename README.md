@@ -251,7 +251,7 @@ Contributions to VehicleDetectionTracker are highly encouraged! If you're intere
 
 ## Get in Touch 📬
 
-VehicleDetectionTracker is developed and maintained by **Sergio Sánchez Sánchez** (Dream Software). Special thanks to the open-source community and the contributors who have made this project possible. If you have any questions, feedback, or suggestions, feel free to reach out at  [dreamsoftware92@gmail.com](mailto:dreamsoftware92@gmail.com).
+VehicleDetectionTracker is developed and maintained by **Sergio Sánchez Sánchez** (Dream Software). Special thanks to the open-source community and the contributors who have made this project possible. If you have any questions, feedback, or suggestions, feel free to reach out at  [borisjhang@gmail.com](mailto:borisjhang@gmail.com).
 
 ## Happy Tracking! 🚀👁️
 
